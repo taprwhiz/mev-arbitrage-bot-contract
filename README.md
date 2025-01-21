@@ -48,4 +48,4 @@ Welcome to the MEV Triangular Arbitrage Bot repository! This smart contract is d
 
 ## Contact
 - **Email**: [sakelejames@gmail.com](mailto:sakelejames@gmail.com)
-- **Telegram**: [@PtcBink](https://t.me/ptcbink)
+- **Telegram**: [@snipmaxi](https://t.me/snipmaxi)
